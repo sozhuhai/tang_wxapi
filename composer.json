@@ -1,0 +1,12 @@
+{
+    "name": "tang/tang_wxapi",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Tang\\Wxapi\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
