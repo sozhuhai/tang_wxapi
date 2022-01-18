@@ -1,9 +1,9 @@
 {
-    "name": "tang/tang_wxapi",
+    "name": "sozhuhai/tang_wxapi",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Tang\\Wxapi\\": "src/"
+            "Sozhuhai\\Wxapi\\": "src/"
         }
     },
     "require": {
